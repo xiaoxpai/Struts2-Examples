@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Struts2JsonValidation:war">
+    <output-path>$PROJECT_DIR$/Struts2JsonValidation/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Struts2JsonValidation</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Struts2JsonValidation-1.0.war">
+      <element id="artifact" artifact-name="Struts2JsonValidation:war exploded" />
+    </root>
+  </artifact>
+</component>

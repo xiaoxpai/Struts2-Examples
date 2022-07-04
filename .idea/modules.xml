@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Struts2-Examples.iml" filepath="$PROJECT_DIR$/.idea/Struts2-Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts2Convention/Struts2Convention.iml" filepath="$PROJECT_DIR$/Struts2Convention/Struts2Convention.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts2JsonValidation/Struts2JsonValidation.iml" filepath="$PROJECT_DIR$/Struts2JsonValidation/Struts2JsonValidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts2Junit4/Struts2Junit4.iml" filepath="$PROJECT_DIR$/Struts2Junit4/Struts2Junit4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts2MavenSample/Struts2MavenSample.iml" filepath="$PROJECT_DIR$/Struts2MavenSample/Struts2MavenSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts2MessageStoreExample/Struts2MessageStoreExample.iml" filepath="$PROJECT_DIR$/Struts2MessageStoreExample/Struts2MessageStoreExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts2RemeberMeMaven/Struts2RemeberMeMaven.iml" filepath="$PROJECT_DIR$/Struts2RemeberMeMaven/Struts2RemeberMeMaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts2RestConvention/Struts2RestConvention.iml" filepath="$PROJECT_DIR$/Struts2RestConvention/Struts2RestConvention.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts2Spring3Hibernate/Struts2Spring3Hibernate.iml" filepath="$PROJECT_DIR$/Struts2Spring3Hibernate/Struts2Spring3Hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Struts2Vaadin/Struts2Vaadin.iml" filepath="$PROJECT_DIR$/Struts2Vaadin/Struts2Vaadin.iml" />
+    </modules>
+  </component>
+</project>

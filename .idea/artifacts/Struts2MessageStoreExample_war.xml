@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Struts2MessageStoreExample:war">
+    <output-path>$PROJECT_DIR$/Struts2MessageStoreExample/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Struts2MessageStoreExample</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Struts2MessageStoreExample.war">
+      <element id="artifact" artifact-name="Struts2MessageStoreExample:war exploded" />
+    </root>
+  </artifact>
+</component>

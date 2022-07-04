@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Struts2MessageStoreExample" />
+        <module name="Struts2RestConvention" />
+        <module name="Struts2Convention" />
+        <module name="Struts2Vaadin" />
+        <module name="Struts2RemeberMeMaven" />
+        <module name="Struts2Spring3Hibernate" />
+        <module name="Struts2Junit4" />
+        <module name="Struts2MavenSample" />
+        <module name="Struts2JsonValidation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Struts2Convention" target="1.6" />
+      <module name="Struts2JsonValidation" target="1.6" />
+      <module name="Struts2Junit4" target="1.6" />
+      <module name="Struts2MavenSample" target="1.6" />
+      <module name="Struts2MessageStoreExample" target="1.5" />
+      <module name="Struts2RemeberMeMaven" target="1.8" />
+      <module name="Struts2RestConvention" target="1.5" />
+      <module name="Struts2Spring3Hibernate" target="1.5" />
+      <module name="Struts2Vaadin" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Struts2JsonValidation" options="-endorseddirs $PROJECT_DIR$/Struts2JsonValidation/target/endorsed" />
+      <module name="Struts2Junit4" options="-endorseddirs $PROJECT_DIR$/Struts2Junit4/target/endorsed" />
+      <module name="Struts2MavenSample" options="-endorseddirs $PROJECT_DIR$/Struts2MavenSample/target/endorsed" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Struts2RemeberMeMaven:war">
+    <output-path>$PROJECT_DIR$/Struts2RemeberMeMaven/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Struts2RemeberMeMaven</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Struts2RemeberMeMaven.war">
+      <element id="artifact" artifact-name="Struts2RemeberMeMaven:war exploded" />
+    </root>
+  </artifact>
+</component>

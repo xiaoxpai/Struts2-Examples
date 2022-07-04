@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Struts2Vaadin:war">
+    <output-path>$PROJECT_DIR$/Struts2Vaadin/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Struts2Vaadin</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Struts2Vaadin.war">
+      <element id="artifact" artifact-name="Struts2Vaadin:war exploded" />
+    </root>
+  </artifact>
+</component>
